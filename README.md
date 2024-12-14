@@ -1,6 +1,6 @@
 # dl.ai-deep-learning
 
-This repository features our notes from the DeepLearning.ai program in Deep Learning, available on Coursera. The repository is organized as follows>
+This repository features supplementary materials for the Deep Learning Specialization by DeepLearning.AI. It is organized as follows>
 
 ```
 ├──course_number_and_name #
